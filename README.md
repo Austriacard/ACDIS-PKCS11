@@ -1,4 +1,4 @@
-# ACDIS-PKCS11
+# ACDIS Sapphire PKCS11
 As part of the Sapphire product group our PKCS#11 driver enables the customer to manage cryptographic keys, and performing operations with them. It is a product that is used in conjunction with smartcard provided by Austriacard.
 
 ## Configuration for Fortify
