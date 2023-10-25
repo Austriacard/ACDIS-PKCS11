@@ -1,6 +1,8 @@
 # ACDIS Sapphire PKCS11
 As part of the Sapphire product group our PKCS#11 driver enables the customer to manage cryptographic keys, and performing operations with them. It is a product that is used in conjunction with smartcard provided by Austriacard.
 
+The release includes the instalation software as well as a developer manual which includes the necessary set up for the installation itself.
+
 ## Configuration for Fortify
 The PKCS#11 module must be configured in the file card.json. This is located in the directory:
 <<User-Home>> \.fortify
